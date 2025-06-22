@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://asphaltcalc.pro/sitemap.xml
+Sitemap: https://asphaltcalculator.work/sitemap.xml
